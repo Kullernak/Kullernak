@@ -1,0 +1,15 @@
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\bin\Debug\net6.0\asata_hello_consol.exe
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\bin\Debug\net6.0\asata_hello_consol.deps.json
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\bin\Debug\net6.0\asata_hello_consol.runtimeconfig.json
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\bin\Debug\net6.0\asata_hello_consol.dll
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\bin\Debug\net6.0\asata_hello_consol.pdb
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.csproj.AssemblyReference.cache
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.AssemblyInfoInputs.cache
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.AssemblyInfo.cs
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.csproj.CoreCompileInputs.cache
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.dll
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\refint\asata_hello_consol.dll
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.pdb
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\asata_hello_consol.genruntimeconfig.cache
+C:\Users\79157\Desktop\Новая папка (2)\asata\asata_hello_consol\obj\Debug\net6.0\ref\asata_hello_consol.dll
